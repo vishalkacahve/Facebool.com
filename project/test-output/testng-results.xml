@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44849" started-at="2022-12-14T13:38:02 IST" finished-at="2022-12-14T13:38:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44849" started-at="2022-12-14T13:38:02 IST" finished-at="2022-12-14T13:38:47 IST">
+      <class name="com.testpage.TestPage">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.testpage.TestPage@40f08448]" name="Setup" is-config="true" duration-ms="7541" started-at="2022-12-14T13:37:55 IST" finished-at="2022-12-14T13:38:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="VerifyLogin()[pri:1, instance:com.testpage.TestPage@40f08448]" name="VerifyLogin" duration-ms="20295" started-at="2022-12-14T13:38:02 IST" finished-at="2022-12-14T13:38:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method status="PASS" signature="VerifyHederBar()[pri:2, instance:com.testpage.TestPage@40f08448]" name="VerifyHederBar" duration-ms="24510" started-at="2022-12-14T13:38:22 IST" finished-at="2022-12-14T13:38:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHederBar -->
+        <test-method status="PASS" signature="verifyTestCase()[pri:3, instance:com.testpage.TestPage@40f08448]" name="verifyTestCase" duration-ms="2" started-at="2022-12-14T13:38:47 IST" finished-at="2022-12-14T13:38:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestCase -->
+      </class> <!-- com.testpage.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
